@@ -1,0 +1,13 @@
+{
+  "name": "savani-apps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "karma start"
+  },
+  "keywords": [],
+  "author": "your_name <your.email@domain.com>",
+  "license": "ISC"
+}
